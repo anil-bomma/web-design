@@ -1,0 +1,24 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 3px 6px;
+}
+
+/* common declaration */
+h1, h2 {
+    color: green;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+ 
